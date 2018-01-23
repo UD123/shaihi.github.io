@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56.023735mm"
+   height="15.725423mm"
+   viewBox="0 0 56.023735 15.725423"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="blisk-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="116.50392"
+     inkscape:cy="29.717333"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g41"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="781"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-51.383546,-112.3561)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Futura;-inkscape-font-specification:Futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.892857"
+       y="127.66666"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="49.892857"
+         y="127.66666"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Futura;-inkscape-font-specification:'Futura, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:bold;text-align:start;letter-spacing:-1.24883354px;word-spacing:-0.75141668px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         dx="-0.07">BLISK</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="dot"
+     style="display:inline"
+     transform="translate(-51.383546,-112.3561)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.20101357px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.495038"
+       x="63.610874"
+       y="127.11408"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="63.610874"
+         y="127.11408"
+         style="fill:#ffffff;stroke-width:0.495038">.</tspan></text>
+  </g>
+  <g
+     inkscape:label="dot copy"
+     id="g35"
+     inkscape:groupmode="layer"
+     transform="translate(-51.383546,-112.3561)">
+    <text
+       id="text33"
+       y="116.28523"
+       x="72.696609"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.20101357px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.495038"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.495038"
+         y="116.28523"
+         x="72.696609"
+         id="tspan31"
+         sodipodi:role="line">.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g41"
+     inkscape:label="dot copy copy"
+     transform="translate(-51.383546,-112.3561)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.20101357px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.495038"
+       x="103.61859"
+       y="127.60844"
+       id="text39"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         x="103.61859"
+         y="127.60844"
+         style="fill:#000000;stroke-width:0.495038">.</tspan></text>
+  </g>
+</svg>
