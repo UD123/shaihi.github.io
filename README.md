@@ -2,7 +2,7 @@
 
 [Business Frontpage](http://startbootstrap.com/template-overviews/business-frontpage/) is a basic business website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Preview
+## Preview :
 
 [![Business Frontpage Preview](https://startbootstrap.com/assets/img/templates/business-frontpage.jpg)](https://blackrockdigital.github.io/startbootstrap-business-frontpage/)
 
@@ -60,3 +60,10 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
+
+
+%------------------------------
+% Ver   Date        Who     Descr.
+%-----------------------------
+% 0101  21.05.18    UD      Cloned from Shai
+%------------------------------
