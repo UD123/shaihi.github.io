@@ -62,8 +62,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
 
 
-%------------------------------
-% Ver   Date        Who     Descr.
-%-----------------------------
-% 0101  21.05.18    UD      Cloned from Shai
-%------------------------------
+##------------------------------
+## Ver   Date        Who     Descr.
+##-----------------------------
+## 0101  21.05.18    UD      Cloned from Shai
+##------------------------------
